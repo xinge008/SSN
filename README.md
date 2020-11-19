@@ -16,4 +16,4 @@ We first release the code of how to generate the shape signature in **Lyft** and
 
 ### 2. Full Release
 
-The complete source code will be available after publication.
+SSN has been integrated into the [mmdetection3d](https://github.com/open-mmlab/mmdetection3d). Please check it for the full code. Thanks
